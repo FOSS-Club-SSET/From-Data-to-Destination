@@ -7,7 +7,7 @@ Welcome to the **OpenStreetMap (OSM) Beginner's Guide**! This guide introduces O
 1. [What is OpenStreetMap?](#what-is-openstreetmap)  
 2. [Getting Started with Contributing to OSM](#getting-started-with-contributing-to-osm)  
    - [Create an OSM Account](#1-create-an-osm-account)  
-   - [Mapping with OSM (Essentials of Mapping)](#2-mapping-with-(osm-essentials-of-mapping))  
+   - [Mapping with OSM (Essentials of Mapping)]([#2-mapping-with-(osm-essentials-of-mapping)](https://github.com/FOSS-Club-SSET/From-Data-to-Destination/edit/main/README.md#2-mapping-with-osm-essential-of-mapping))  
    - [Mapping with Phone (Recommended)](#3-mapping-with-phone-really-really-recommended)  
 3. [OSM Mapathon](#osm-mapathon)  
 4. [From Data to Destination: Mapathon Contest](#from-data-to-destination-mapathon-contest)  
