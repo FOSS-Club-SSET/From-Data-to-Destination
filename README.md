@@ -95,7 +95,7 @@ Refer: [OSM Good Practices](https://wiki.openstreetmap.org/wiki/Good_practice)
 Refer: [OSM Good Practices](https://wiki.openstreetmap.org/wiki/Good_practice)
 ---
 
-## Tools and Resources  
+## Resources Mentioned 
 - [Step-by-Step Guide to Mapping on OSM](https://youtu.be/Ir-3K0pjwOI) 
 - [OSM Good Practices](https://wiki.openstreetmap.org/wiki/Good_practice)
 - [Learn OSM](https://learnosm.org/en/beginner/introduction/)
@@ -103,9 +103,15 @@ Refer: [OSM Good Practices](https://wiki.openstreetmap.org/wiki/Good_practice)
 - [How to Map with OSM Tracker ](https://youtu.be/37-lilNEyOU?feature=shared). (*Longer*, English)
 ---
 
+
 ## Registration
 
 - [Register Now](https://fossunited.org/c/sset/FDTD2025)
 ---
 
+## Community
+
+if you have any enquiries do reach us out in [our telegram community](https://t.me/+neAEouxXFZA1NzM9)
+
+---
 With Love, FOSS Club SSET
