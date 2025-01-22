@@ -45,7 +45,8 @@ It's a **5-day Mapathon contest** where participants can map the college campus,
 1. **OSM Account**: All participants must create an account before the event. Refer [This Video](https://www.youtube.com/watch?v=5FwMgCsyuwg&t=197s)
 2. **Hashtag**: Use the hashtag **`#fossclubsset`** for all edits made as part of the contest. Refer [This Video](https://www.youtube.com/watch?v=5FwMgCsyuwg&t=246s)
 3. **No Vandalism**: Any form of vandalism in OpenStreetMap is strictly prohibited.
-4. Refer to this guide: [OSM Guidelines](#).
+
+Refer [OSM Good Practices](https://wiki.openstreetmap.org/wiki/Good_practice)
 
 ### Eligibility
 
