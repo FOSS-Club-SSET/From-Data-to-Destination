@@ -66,21 +66,21 @@ Open to everyone interested.
 
 ---
 
-## Tips for Effective Mapping  
-
-1. **Start Local**: Map areas you know well.  
-2. **Use Satellite Images**: Cross-check with imagery from Bing or Mapbox.  
-3. **On-Ground Surveys**: Walk around to gather missing data. ([Use OSM Tracker](https://youtu.be/bIRGXkmhw5k)) 
-4. **Tag Properly**: Add details like names, hours, or descriptions. 
-Refer: [OSM Good Practices](https://wiki.openstreetmap.org/wiki/Good_practice)
----
-
 ## Criteria for the Best Mappers  
 
 - **Contributions**: Total edits (e.g., buildings and roads added).  
 - **Quality**: Accuracy and completeness of data.  
 - **Diversity**: A mix of mapped features (e.g., roads, POIs, green spaces).
 - **Impact**: Contributions to critical or under-mapped areas.  
+Refer: [OSM Good Practices](https://wiki.openstreetmap.org/wiki/Good_practice)
+---
+
+## Tips for Effective Mapping  
+
+1. **Start Local**: Map areas you know well.  
+2. **Use Satellite Images**: Cross-check with imagery from Bing or Mapbox.  
+3. **On-Ground Surveys**: Walk around to gather missing data. ([Use OSM Tracker](https://youtu.be/bIRGXkmhw5k)) 
+4. **Tag Properly**: Add details like names, hours, or descriptions. 
 Refer: [OSM Good Practices](https://wiki.openstreetmap.org/wiki/Good_practice)
 ---
 
