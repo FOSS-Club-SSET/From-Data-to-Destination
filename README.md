@@ -1,7 +1,24 @@
 # OpenStreetMap (OSM) Beginner's Guide  
 
-Welcome to the **OpenStreetMap (OSM) Beginner's Guide**! This guide introduces OSM and provides step-by-step instructions for new mappers.  
+Welcome to the **OpenStreetMap (OSM) Beginner's Guide**! This guide introduces OSM and provides step-by-step instructions for new mappers. 
 
+## Table of Contents  
+
+1. [What is OpenStreetMap?](#what-is-openstreetmap)  
+2. [Getting Started with Contributing to OSM]([#getting-started-with-contributing-to-osm](https://github.com/FOSS-Club-SSET/From-Data-to-Destination/edit/main/README.md#getting-started-with-contributing-to-osm))  
+   - [Create an OSM Account]([#1-create-an-osm-account](https://github.com/FOSS-Club-SSET/From-Data-to-Destination/edit/main/README.md#1-create-an-osm-account))  
+   - [Mapping with OSM (Essentials of Mapping)]([#2-mapping-with-osm-essentials-of-mapping](https://github.com/FOSS-Club-SSET/From-Data-to-Destination/edit/main/README.md#2-mapping-with-osm-essential-of-mapping))  
+   - [Mapping with Phone (Recommended)]([#3-mapping-with-phone-really-really-recommended](https://github.com/FOSS-Club-SSET/From-Data-to-Destination/edit/main/README.md#3-mapping-with-phone-really-really-recommented))  
+3. [OSM Mapathon]([#osm-mapathon](https://github.com/FOSS-Club-SSET/From-Data-to-Destination/edit/main/README.md#osm-mapathon))  
+4. [From Data to Destination: Mapathon Contest](#from-data-to-destination-mapathon-contest)  
+   - [Event Details](#event-details)  
+   - [Contest Rules](#contest-rules)  
+   - [Eligibility](#eligibility)  
+   - [Timeframe](#timeframe)  
+5. [Criteria for the Best Mappers](#criteria-for-the-best-mappers)  
+6. [Tips for Effective Mapping](#tips-for-effective-mapping)  
+7. [Tools and Resources](#tools-and-resources)  
+8. [Register Now](#register-now)  
 ---
 
 ## What is OpenStreetMap?  
