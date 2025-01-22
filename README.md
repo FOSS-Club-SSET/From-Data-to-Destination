@@ -42,7 +42,7 @@ An **OSM Mapathon** is a coordinated event conducted by the local OSM community 
 
 ### Event Details  
 
-Join our **5-day Mapathon contest**, where participants will map the college campus, nearby localities, or under-mapped regions. The top 3 mappers will receive **mystery prizes**!  
+It's a 5-day Mapathon contest where participants can map the college campus, nearby localities, or any under-mapped regions. The top 3 mappers will be getting **mystery prizes**
 
 ---
 
@@ -88,4 +88,6 @@ Refer: [OSM Good Practices](https://wiki.openstreetmap.org/wiki/Good_practice)
 
 ## Register Now!  
 *Registration Link*: https://fossunited.org/c/sset/FDTD2025
+---
+
 With Love, FOSS Club SSET
