@@ -42,7 +42,7 @@ An **OSM Mapathon** is a coordinated event conducted by the local OSM community 
 
 ### Event Details  
 
-It's a 5-day Mapathon contest where participants can map the college campus, nearby localities, or any under-mapped regions. The top 3 mappers will be getting **mystery prizes**, Watch this video for a better understanding
+It's a 5-day Mapathon contest where participants can map the college campus, nearby localities, or any under-mapped regions. The top 3 mappers will be getting **mystery prizes**, [Watch this video](https://youtu.be/5FwMgCsyuwg) for a better understanding
 
 ---
 
