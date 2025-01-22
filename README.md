@@ -96,9 +96,12 @@ Refer: [OSM Good Practices](https://wiki.openstreetmap.org/wiki/Good_practice)
 ---
 
 ## Tools and Resources  
-
+- OpenStreetMap in-browser id editor (Web-Based), [Step-by-Step Guide to Mapping on OSM](https://youtu.be/Ir-3K0pjwOI)
 - [OSM Tracker](https://play.google.com/store/apps/details?id=net.osmtracker&pcampaignid=web_share) (Android). [How to Use OSM Tracker](https://youtu.be/bIRGXkmhw5k) 
-
+- [OSM Good Practices](https://wiki.openstreetmap.org/wiki/Good_practice)
+- [Learn OSM](https://learnosm.org/en/beginner/introduction/)
+- [How to Map with OSM Tracker](https://youtu.be/bIRGXkmhw5k?feature=shared). (*Shorter*,Malayalam)
+- [How to Map with OSM Tracker ](https://youtu.be/37-lilNEyOU?feature=shared). (*Longer*, English)
 ---
 
 ## Registration
