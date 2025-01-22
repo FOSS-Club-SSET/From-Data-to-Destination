@@ -24,7 +24,7 @@ OpenStreetMap is a collaborative platform where users can contribute geographica
 - Or read this: [Learn OSM](https://learnosm.org/en/beginner/introduction/).
 
 ### 3. Mapping with Phone (Really Really Recommented)
-*If you are interested in going out and Mapping Things, Also these mappers will have better chances of winning the mapathon*
+*If you enjoy going out and mapping things, you'll have a better chance of winning the contest*
 - Watch this: [How to Map with OSM Tracker (*Shorter*,Malayalam)](https://youtu.be/bIRGXkmhw5k?feature=shared)
 - Or this: [How to Map with OSM Tracker (*Longer*, English)](https://youtu.be/37-lilNEyOU?feature=shared)
 ---
