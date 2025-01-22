@@ -86,8 +86,7 @@ Refer: [OSM Good Practices](https://wiki.openstreetmap.org/wiki/Good_practice)
 
 ---
 
-## Register Now!  
-*Registration Link*: https://fossunited.org/c/sset/FDTD2025
+## Register Now : https://fossunited.org/c/sset/FDTD2025
 ---
 
 With Love, FOSS Club SSET
