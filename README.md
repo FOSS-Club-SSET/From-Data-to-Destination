@@ -14,12 +14,12 @@ OpenStreetMap is a collaborative platform where users can contribute geographica
 
 - Visit [OpenStreetMap](https://www.openstreetmap.org/).
 - Click **"Sign Up"** and follow the steps to register.
-- If you need help, watch this guide: [How to Create an OSM Account](#).
+- If you need help, watch this guide: [How to Create an OSM Account](https://youtu.be/F2c6Edonnlo).
 
 ### 2. Mapping with OSM
 
-- Watch this: [Step-by-Step Guide to Mapping on OSM](#) (Recommended).
-- Or read this: [Learn OSM](https://learnosm.org/).
+- Watch this: [Step-by-Step Guide to Mapping on OSM](https://youtu.be/Ir-3K0pjwOI) (Recommended).
+- Or read this: [Learn OSM](https://learnosm.org/en/beginner/introduction/).
 
 ---
 
