@@ -42,15 +42,19 @@ An **OSM Mapathon** is a coordinated event conducted by the local OSM community 
 
 ### Event Details  
 
-It's a 5-day Mapathon contest where participants can map the college campus, nearby localities, or any under-mapped regions. The top 3 mappers will be getting **mystery prizes**
+It's a 5-day Mapathon contest where participants can map the college campus, nearby localities, or any under-mapped regions. The top 3 mappers will be getting **mystery prizes**, Watch this video for a better understanding
 
 ---
 
 ### Contest Rules  
 
-1. **OSM Account**: All participants must create an account before the event. Watch [this video](https://www.youtube.com/watch?v=5FwMgCsyuwg&t=197s).  
-2. **Hashtag**: Use the hashtag **`#fossclubsset`** for all edits made during the contest. Watch [this video](https://www.youtube.com/watch?v=5FwMgCsyuwg&t=246s).  
-3. **No Vandalism**: Any form of vandalism in OpenStreetMap is strictly prohibited.  
+1. **OSM Account**: All participants must create an account before the event. Watch [this video](https://www.youtube.com/watch?v=5FwMgCsyuwg&t=197s).
+  ![Screenshot_20250121_203857](https://github.com/user-attachments/assets/c6e878db-7d6e-4cb0-93f9-a690f4e22f86)
+
+3. **Hashtag**: Use the hashtag **`#fossclubsset`** for all edits made during the contest. Watch [this video](https://www.youtube.com/watch?v=5FwMgCsyuwg&t=246s).
+    ![Screenshot_20250121_222307](https://github.com/user-attachments/assets/3d84bd5d-4515-4102-84e2-c13f11026bed)
+
+5. **No Vandalism**: Any form of vandalism in OpenStreetMap is strictly prohibited.  
 
 ### Eligibility  
 
