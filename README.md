@@ -37,23 +37,13 @@ An **OSM Mapathon** is a coordinated event conducted by the local OSM community 
 
 ### Event Details
 
-**FOSS Club SSET** is hosting a **5-day Mapathon contest** where participants can map the college campus, nearby localities, or under-mapped regions. The top 3 mappers will be awarded **mystery prizes**!
-
-### Focus Areas
-
-- **Buildings**: Map outlines and add tags (e.g., `building=hostel`).
-- **Roads and Pathways**: Include roads, bike lanes, and pathways.
-- **Points of Interest (POIs)**: Add canteens, shops, restrooms, and health centers.
-- **Water Features**: Map ponds, fountains, and drainage systems.
-- **Green Spaces**: Include parks, gardens, and significant trees.
-- **Transportation**: Add parking lots and entrance gates.
-
+It's a **5-day Mapathon contest** where participants can map the college campus, nearby localities, or any under-mapped regions. The top 3 mappers will be getting **mystery prizes**!
 ---
 
 ### Contest Rules
 
-1. **OSM Account**: All participants must create an account before the event.
-2. **Hashtag**: Use the hashtag **`#fossclubsset`** for all edits made as part of the contest.
+1. **OSM Account**: All participants must create an account before the event. Refer [This Video](https://www.youtube.com/watch?v=5FwMgCsyuwg&t=197s)
+2. **Hashtag**: Use the hashtag **`#fossclubsset`** for all edits made as part of the contest. Refer [This Video](https://www.youtube.com/watch?v=5FwMgCsyuwg&t=246s)
 3. **No Vandalism**: Any form of vandalism in OpenStreetMap is strictly prohibited.
 4. Refer to this guide: [OSM Guidelines](#).
 
