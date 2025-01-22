@@ -54,7 +54,7 @@ It's a 5-day Mapathon contest where participants can map the college campus, nea
 3. **Hashtag**: Use the hashtag **`#fossclubsset`** for all edits made during the contest. Watch [this video](https://www.youtube.com/watch?v=5FwMgCsyuwg&t=246s).
     ![Screenshot_20250121_222307](https://github.com/user-attachments/assets/3d84bd5d-4515-4102-84e2-c13f11026bed)
 
-5. **No Vandalism**: Any form of vandalism in OpenStreetMap is strictly prohibited.  
+5. [**No Vandalism**](https://wiki.openstreetmap.org/wiki/Vandalism): Any form of vandalism in OpenStreetMap is strictly prohibited.  
 
 ### Eligibility  
 
