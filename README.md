@@ -8,7 +8,7 @@ Welcome to the **OpenStreetMap (OSM) Beginner's Guide**! This guide introduces O
 2. [Getting Started with Contributing to OSM](#getting-started-with-contributing-to-osm)    
 3. [OSM Mapathon](#osm-mapathon)  
 4. [From Data to Destination: Mapathon Contest](#from-data-to-destination-mapathon-contest)  
-5. [Criteria for the Best Mappers](#criteria-for-the-best-mappers)  
+5. [Criteria for Evaluation](#criteria-for-evaluation)  
 6. [Tips for Effective Mapping](#tips-for-effective-mapping)  
 7. [Tools and Resources](#tools-and-resources)  
 8. [Register Now](#registration)  
@@ -77,7 +77,7 @@ Open to everyone interested.
 
 ---
 
-## Criteria for the Best Mappers  
+## Criteria for Evaluation 
 
 - **Contributions**: Total edits (e.g., buildings and roads added).  
 - **Quality**: Accuracy and completeness of data.  
