@@ -18,14 +18,15 @@ OpenStreetMap is a collaborative platform where users can contribute geographica
 - Click **"Sign Up"** and follow the steps to register.  
 - Need help? Watch this guide: [How to Create an OSM Account](https://youtu.be/F2c6Edonnlo).  
 
-### 2. Mapping with OSM(Essential)
+### 2. Mapping with OSM (Essential of Mapping)
 
 - Watch this: [Step-by-Step Guide to Mapping on OSM](https://youtu.be/Ir-3K0pjwOI) (Recommended).  
 - Or read this: [Learn OSM](https://learnosm.org/en/beginner/introduction/).
 
-### 3. Mapping with Phone(Really Really Recommented)
-
-- Watch this: [How to Map with OSM Tracker](https://youtu.be/bIRGXkmhw5k?feature=shared)
+### 3. Mapping with Phone (Really Really Recommented)
+*If you are interested in going out and Mapping Things, Also these mappers will have better chances of winning the mapathon*
+- Watch this: [How to Map with OSM Tracker (*Shorter*,Malayalam)](https://youtu.be/bIRGXkmhw5k?feature=shared)
+- Or this: [How to Map with OSM Tracker (*Longer*, English)](https://youtu.be/37-lilNEyOU?feature=shared)
 ---
 ## OSM Mapathon  
 
@@ -61,26 +62,13 @@ Open to everyone interested.
 
 ---
 
-## Mapping Guidelines  
-Refer to [OSM Good Practices](https://wiki.openstreetmap.org/wiki/Good_practice)
-### Features to Map  
-
-- **Buildings**: Add outlines and tags (e.g., `building=hostel`).  
-- **Roads and Pathways**: Map roads, bike lanes, and pathways.  
-- **Points of Interest (POIs)**: Include canteens, shops, restrooms, and health centers.  
-- **Water Features**: Add ponds, fountains, and drainage systems.  
-- **Green Spaces**: Map parks, gardens, and significant trees.  
-- **Transportation**: Include parking lots and entrance gates.  
-
----
-
 ## Tips for Effective Mapping  
 
 1. **Start Local**: Map areas you know well.  
 2. **Use Satellite Images**: Cross-check with imagery from Bing or Mapbox.  
 3. **On-Ground Surveys**: Walk around to gather missing data.  
 4. **Tag Properly**: Add details like names, hours, or descriptions. 
-Refer to [OSM Good Practices](https://wiki.openstreetmap.org/wiki/Good_practice)
+Refer: [OSM Good Practices](https://wiki.openstreetmap.org/wiki/Good_practice)
 ---
 
 ## Criteria for the Best Mappers  
@@ -89,7 +77,7 @@ Refer to [OSM Good Practices](https://wiki.openstreetmap.org/wiki/Good_practice)
 - **Quality**: Accuracy and completeness of data.  
 - **Diversity**: A mix of mapped features (e.g., roads, POIs, green spaces).
 - **Impact**: Contributions to critical or under-mapped areas.  
-Refer to [OSM Good Practices](https://wiki.openstreetmap.org/wiki/Good_practice)
+Refer: [OSM Good Practices](https://wiki.openstreetmap.org/wiki/Good_practice)
 ---
 
 ## Tools and Resources  
@@ -99,7 +87,5 @@ Refer to [OSM Good Practices](https://wiki.openstreetmap.org/wiki/Good_practice)
 ---
 
 ## Register Now!  
-
-Join us for this exciting event and make a real-world impact through mapping!  
-
+*Registration Link*: https://fossunited.org/c/sset/FDTD2025
 With Love, FOSS Club SSET
