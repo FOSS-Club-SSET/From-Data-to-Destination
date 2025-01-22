@@ -11,7 +11,7 @@ Welcome to the **OpenStreetMap (OSM) Beginner's Guide**! This guide introduces O
 5. [Criteria for the Best Mappers](#criteria-for-the-best-mappers)  
 6. [Tips for Effective Mapping](#tips-for-effective-mapping)  
 7. [Tools and Resources](#tools-and-resources)  
-8. [Register Now](#register-now)  
+8. [Register Now](#registration)  
 
 ---
 
