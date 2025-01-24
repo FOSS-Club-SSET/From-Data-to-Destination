@@ -1,6 +1,6 @@
-# OpenStreetMap (OSM) Beginner's Guide  
+# From Data to Destination: Mapathon Contest Beginner's Guide  
 
-Welcome to the **OpenStreetMap (OSM) Beginner's Guide**! This guide introduces OSM and provides step-by-step instructions for new mappers. 
+Welcome to the **From Data to Destination: Mapathon Contest Beginner's Guide**! This guide introduces OSM and provides step-by-step instructions for new mappers for the Mapathon Contest
 
 ## Table of Contents  
 
