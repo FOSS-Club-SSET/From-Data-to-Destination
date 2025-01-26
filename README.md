@@ -28,7 +28,6 @@ OpenStreetMap is a collaborative platform where users can contribute geographica
 
 - Visit [OpenStreetMap](https://www.openstreetmap.org/).  
 - Click **"Sign Up"** and follow the steps to register.  
-- Need help? Watch this guide: [How to Create an OSM Account](https://youtu.be/F2c6Edonnlo).  
 
 ### 2. Mapping with OSM (Essential of Mapping)
 
